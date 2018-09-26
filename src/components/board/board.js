@@ -136,7 +136,7 @@ export default class Board extends Component {
                     length={'30px'}
                     direction={'bottom'}
                     delay={'1s'}>
-                    <h4>Try to click on every NBA Player once. Once you click a player the grid will shuffle.<br/>Try not to click the same NBA Player twice or the game will start all over!</h4>
+                    <h4>Try to click on every Philadelphia player one time. After every click, the board will shuffle!<br/>Be careful, because if you click the same player twice the game will restart! Good luck!!</h4>
                 </FadeIn>
                 <FadeIn 
                     in={true}
