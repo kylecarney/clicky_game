@@ -14,77 +14,77 @@ const shuffleArray = arr => (
 const initialChars = [
     {
         name: 'Allen Iverson',
-        img: 'img/250x180/allen-iverson.png',
+        img: 'img/250x180/iverson.png',
         clicked: false
     },
     {
-        name: 'Blake Griffin',
-        img: 'img/250x180/blake-griffin.png',
+        name: 'Charles Barkley',
+        img: 'img/250x180/barkley.png',
         clicked: false
     },
     {
-        name: 'Carmelo Anthony',
-        img: 'img/250x180/carmelo-anthony.png',
+        name: 'Steve Carlton',
+        img: 'img/250x180/carlton.png',
         clicked: false
     },
     {
-        name: 'Colby Bryant',
-        img: 'img/250x180/colby-bryant.png',
+        name: 'Wilt Chamberlin',
+        img: 'img/250x180/chamberlin.png',
         clicked: false
     },
     {
-        name: 'Demar Derozan',
-        img: 'img/250x180/demar-derozan.png',
+        name: 'Brian Dawkins',
+        img: 'img/250x180/dawkins.png',
         clicked: false
     },
     {
-        name: 'Derrick Rose',
-        img: 'img/250x180/derrick-rose.png',
+        name: 'Joel Embiid',
+        img: 'img/250x180/embiid.png',
         clicked: false
     },
     {
-        name: 'Devin Booker',
-        img: 'img/250x180/devin-booker.png',
+        name: 'Julius Erving',
+        img: 'img/250x180/erving.png',
         clicked: false
     },
     {
-        name: 'Draymond Green',
-        img: 'img/250x180/draymond-green.png',
+        name: 'Claude Giroux',
+        img: 'img/250x180/giroux.png',
         clicked: false
     },
     {
-        name: 'James Harden',
-        img: 'img/250x180/james-harden.png',
+        name: 'Roy Halladay',
+        img: 'img/250x180/halladay.png',
         clicked: false
     },
     {
-        name: 'Jeremy Lin',
-        img: 'img/250x180/jeremy-lin.png',
+        name: 'Terrell Owens',
+        img: 'img/250x180/owens.png',
         clicked: false
     },
     {
-        name: 'Kevin Durant',
-        img: 'img/250x180/kevin-durant.png',
+        name: 'Mike Schmidt',
+        img: 'img/250x180/schmidt.png',
         clicked: false
     },
     {
-        name: 'Kyrie Irving',
-        img: 'img/250x180/kyrie-irving.png',
+        name: 'Wayne Simmonds',
+        img: 'img/250x180/simmonds.png',
         clicked: false
     },
     {
-        name: 'Lebron James',
-        img: 'img/250x180/lebron-james.png',
+        name: 'Ben Simmons',
+        img: 'img/250x180/simmons.png',
         clicked: false
     },
     {
-        name: 'Lonzo-Ball',
-        img: 'img/250x180/lonzo-ball.png',
+        name: 'Chase Utley',
+        img: 'img/250x180/utley.png',
         clicked: false
     },
     {
-        name: 'Russell Westbrook',
-        img: 'img/250x180/russell-westbrook.png',
+        name: 'Carson Wentz',
+        img: 'img/250x180/wentz.png',
         clicked: false
     }
 ]
@@ -136,7 +136,7 @@ export default class Board extends Component {
                     length={'30px'}
                     direction={'bottom'}
                     delay={'1s'}>
-                    <h4>Try to click on every Philadelphia player one time. After every click, the board will shuffle!<br/>Be careful, because if you click the same player twice the game will restart! Good luck!!</h4>
+                    <h4>Click on every Philadelphia player one time. After every click, the board will shuffle!<br/>Be careful, because if you click the same player twice the game will restart!Good luck!!</h4>
                 </FadeIn>
                 <FadeIn 
                     in={true}
