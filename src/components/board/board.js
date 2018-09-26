@@ -34,7 +34,7 @@ const initialChars = [
     },
     {
         name: 'Brian Dawkins',
-        img: 'img/250x180/dawkins.png',
+        img: 'img/250x180/dawkins.PNG',
         clicked: false
     },
     {
