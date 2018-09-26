@@ -24,12 +24,12 @@ const initialChars = [
     },
     {
         name: 'Steve Carlton',
-        img: 'img/250x180/carlton.png',
+        img: 'img/250x180/carlton.PNG',
         clicked: false
     },
     {
         name: 'Wilt Chamberlin',
-        img: 'img/250x180/chamberlin.png',
+        img: 'img/250x180/chamberlin.PNG',
         clicked: false
     },
     {
@@ -39,52 +39,52 @@ const initialChars = [
     },
     {
         name: 'Joel Embiid',
-        img: 'img/250x180/embiid.png',
+        img: 'img/250x180/embiid.PNG',
         clicked: false
     },
     {
         name: 'Julius Erving',
-        img: 'img/250x180/erving.png',
+        img: 'img/250x180/erving.PNG',
         clicked: false
     },
     {
         name: 'Claude Giroux',
-        img: 'img/250x180/giroux.png',
+        img: 'img/250x180/giroux.PNG',
         clicked: false
     },
     {
         name: 'Roy Halladay',
-        img: 'img/250x180/halladay.png',
+        img: 'img/250x180/halladay.PNG',
         clicked: false
     },
     {
         name: 'Terrell Owens',
-        img: 'img/250x180/owens.png',
+        img: 'img/250x180/owens.PNG',
         clicked: false
     },
     {
         name: 'Mike Schmidt',
-        img: 'img/250x180/schmidt.png',
+        img: 'img/250x180/schmidt.PNG',
         clicked: false
     },
     {
         name: 'Wayne Simmonds',
-        img: 'img/250x180/simmonds.png',
+        img: 'img/250x180/simmonds.PNG',
         clicked: false
     },
     {
         name: 'Ben Simmons',
-        img: 'img/250x180/simmons.png',
+        img: 'img/250x180/simmons.PNG',
         clicked: false
     },
     {
         name: 'Chase Utley',
-        img: 'img/250x180/utley.png',
+        img: 'img/250x180/utley.PNG',
         clicked: false
     },
     {
         name: 'Carson Wentz',
-        img: 'img/250x180/wentz.png',
+        img: 'img/250x180/wentz.PNG',
         clicked: false
     }
 ]
