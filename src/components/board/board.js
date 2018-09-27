@@ -18,6 +18,11 @@ const initialChars = [
         clicked: false
     },
     {
+        name: 'Charles Barkley',
+        img: 'img/250x180/barkley.png',
+        clicked: false
+    },
+    {
         name: 'Steve Carlton',
         img: 'img/250x180/carlton.PNG',
         clicked: false
@@ -44,7 +49,7 @@ const initialChars = [
     },
     {
         name: 'Claude Giroux',
-        img: 'img/250x180/giroux.PNG',
+        img: 'img/250x180/giroux.png',
         clicked: false
     },
     {
@@ -53,8 +58,18 @@ const initialChars = [
         clicked: false
     },
     {
+        name: 'Terrell Owens',
+        img: 'img/250x180/owens.PNG',
+        clicked: false
+    },
+    {
         name: 'Mike Schmidt',
         img: 'img/250x180/schmidt.PNG',
+        clicked: false
+    },
+    {
+        name: 'Wayne Simmonds',
+        img: 'img/250x180/simmonds.PNG',
         clicked: false
     },
     {
