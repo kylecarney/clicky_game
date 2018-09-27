@@ -49,7 +49,7 @@ const initialChars = [
     },
     {
         name: 'Claude Giroux',
-        img: 'img/250x180/giroux.png',
+        img: 'img/250x180/giroux.PNG',
         clicked: false
     },
     {
