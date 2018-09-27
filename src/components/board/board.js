@@ -39,7 +39,7 @@ const initialChars = [
     },
     {
         name: 'Joel Embiid',
-        img: 'img/250x180/embiid.PNG',
+        img: 'img/250x180/embiid.png',
         clicked: false
     },
     {
